@@ -1,5 +1,5 @@
-## Welcome to Sam's new Page 
-## 欢迎来到Sam的新网页
+## Welcome to new Page 
+   欢迎来到新网页
 
 You can use the [editor on GitHub](https://github.com/samanthahe0908/newone/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
